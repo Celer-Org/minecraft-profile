@@ -16,6 +16,9 @@
     "mojang"
   ],
   "author": "Hasanoes",
+  "publishConfig": {
+   "@Hasanoes:registry": "https://npm.pkg.github.com"
+ }
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Celer-Org/minecraft-profile/issues"
