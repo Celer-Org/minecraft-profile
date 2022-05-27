@@ -17,7 +17,7 @@
   ],
   "author": "Hasanoes",
   "publishConfig": {
-   "@Hasanoes:registry": "https://npm.pkg.github.com"
+   "@PolandBOX:registry": "https://npm.pkg.github.com"
  }
   "license": "MIT",
   "bugs": {
