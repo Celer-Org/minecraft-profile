@@ -1,0 +1,27 @@
+{
+  "name": "@celercore/minecraft-profile",
+  "version": "1.0.0",
+  "description": "Celer Core Minecraft Profile is a library with minecraft profiles.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Celer-Org/minecraft-profile.git"
+  },
+  "keywords": [
+    "minecraft",
+    "profile",
+    "mojang"
+  ],
+  "author": "Hasanoes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Celer-Org/minecraft-profile/issues"
+  },
+  "homepage": "https://github.com/Celer-Org/minecraft-profile#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
